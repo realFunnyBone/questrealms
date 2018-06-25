@@ -1,0 +1,56 @@
+Thank you for downloading my premade server!
+
+[TO SERVER OWNERS] 
+It is IMPORTANT that you log in to your server first before changing permissions to your Minecraft name.
+Once you have successfully logged into your server, op your self in the console then log out and stop the server. 
+Now go to plugins > PermissionsEx > and open permissions.yml and put your Minecraft name where it says "MINECRAFTNAMEHERE" and save file.
+
+>>ALSO NEVER CLICK X ON THE CONSOLE TO STOP SERVER. ALWAYS STOP IT BY TYPING IN STOP AND HIT ENTER IN CONSOLE!<<
+
+NOTE: Winrar/7zip is no more required to extract server folder. Just extract with Windows like normal.
+NOTE: It is highly recommended to download/install Notepad++ or similar app to open config files with! (Link in vid desc)
+NOTE: To allocate more ram to the server, change the "1024M" (1GB) in run.bat to "2048M" (2GB), "3072M" (3GB), "4096M" (4GB), etc. Make sure you have enough RAM installed on PC first before doing so.
+NOTE: To change server to cracked/free mode, remove "-0 true" in run.bat file then on server.properties change true on "online-mode=" to false. SAVE FILES!
+NOTE: To edit the run.bat file > right click the file and click edit.
+NOTE: Change your server's name in server.properties where it says SERVERNAMEHERE in "motd="
+NOTE: To change server icon, create an icon that is 64 x 64 and save it as a png file with the name "server-icon" and drag it into folder > replace.
+NOTE: To remove a plugin, simply delete the plugin .jar file and it's corresponding folder in the plugins folder.
+NOTE: To add plugin, download the .jar file (links to plugin sites in vid desc) and drag into plugins folder > run server.
+NOTE: Be sure to allow port 25565 through your firewall when using Hamachi or portforward. You can alternatively disable your whole firewall (not that safe however).
+NOTE: Be sure to always add the permission nodes when installing new plugins. Tutorial for permissions located in vid description.
+
+[Server is outdated error on console]
+Wait 30 seconds and it should start normally.
+
+[Unable to access jarfile craftbukkit.jar fix]
+If you ran the run.bat file and it is saying "craftbukkit" can't be located, then you need to extract server folder out of the zipped file first
+then click the run file!
+
+[New world install tutorial]
+To install a new world/world save for your server do the following. Find the world save folder you want to install
+(wether it be from your .minecraft saves folder or downloaded off of map sites, etc) and simply rename that folder
+to "world" (no quotes) and drag file into server folder and hit replace.
+
+[Failed to Bind Port Error Fix]
+That means you might have been using the x button to close the console instead of proper way of typing stop to stop it. 
+To fix this you have to close out of everything your running on your computer. 
+Right click the task bar > Start Task Manager > Go to Processes tab > Look for anything with 'Java' in the name > Right click on those & End Process. 
+After doing that restart your computer and try running server again.
+
+[Any Java errors fix/Java is not recognized as internal program]
+Make sure you have the latest version of Java installed.
+Make sure you have Java Runtime installed and then install Jarfix.
+Links to download: http://bit.ly/javamods
+
+[Permissions empty?]
+Wrong permissions. Go to plugins > PermissionsEx > permissions.yml
+
+Check the links in video description for in-game commands, color codes, text guides, troubleshoot errors, etc. 
+Also check http://bit.ly/BukkitFAQs for FAQs!
+
+Be sure to leave a like rating and subscribe to the channel (http://bit.ly/subsplayd) if it helped. Thanks! :D
+Message me on Twitter (@xSplayd), email (kshahriyar4@gmail.com), or comment on video for any issues/questions.
+I'll try my best to reply and keep the server always up to date on Dropbox.
+
+Server playlist: http://bit.ly/servertutorials
+Updated Bukkit Server tutorial: https://youtu.be/KsNMk8cTa4E
